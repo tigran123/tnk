@@ -1,0 +1,60 @@
+%begin-noprep
+\thispagestyle{empty}
+
+\begin{center}
+\LARGE
+\iftorah
+<H>twrh</H>\\
+\fi
+\ifneviim
+<H>nby'ym</H>\\
+\fi
+\ifkethuvim
+<H>ktwbym</H>\\
+\fi
+\Large\scshape
+\vspace*{1mm}
+\iftorah
+Torah\\
+\fi
+\ifneviim
+Prophets\\
+\fi
+\ifkethuvim
+Writings\\
+\fi
+\rule{0.92\linewidth}{0.8pt}\\
+\large
+Massoretic Text\\
+according to\\
+Jacob ben Chayim and C.D.~Ginsburg\\
+\ifnodiacritics
+(pure consonantal text)\\
+\else
+with a critical apparatus of \totalfnt\ notes\\
+\fi
+\rule{0.92\linewidth}{0.8pt}\\
+\vfill
+
+\biblesorguk
+\end{center}
+
+\newpage
+
+\thispagestyle{empty}
+\vspace*{\stretch{3}}
+\begin{center}
+{\large\itshape First Edition}
+\vspace*{\stretch{4}}
+\end{center}
+
+\begin{center}
+\small
+All rights reserved.\\
+Copyright \copyright\ 2002--2017 Bibles.org.uk\\
+Typeset with pdf\LaTeX\ under Linux \shorttoday\\
+\rule{0.9\linewidth}{0.8pt}\\
+The Hebrew \bibemph{Tiqwah} fonts used to typeset this book were kindly donated\\
+by Dr~Yannis Haralambous \biburl{http://omega.enstb.org/fluxus-virus/}
+\end{center}
+%end-noprep

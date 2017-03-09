@@ -1,0 +1,24 @@
+\thispagestyle{empty}
+
+\begin{center}
+\large\scshape The Hebrew Alphabet
+\end{center}
+
+\small
+
+consists of 22 (2$\times$11) letters, so the 5 finals were added to make up
+three series of 9, or 27 in all:
+
+\begin{center}
+\begin{tabular}{llllllllllll}
+Aleph    & <H>'</H> & = & 1 & Yod      & <H>y</H>      & = & 10 & Koph        & <H>q</H>  & = & 100\\
+Beth     & <H>b</H> & = & 2 & Kaph     & <H>k<NIL></H> & = & 20 & Resh        & <H>r</H>  & = & 200\\
+Gimel    & <H>g</H> & = & 3 & Lamed    & <H>l</H>      & = & 30 & Shin        & <H>W/</H> & = & 300\\
+Daleth   & <H>d</H> & = & 4 & Mem      & <H>m<NIL></H> & = & 40 & Tau         & <H>t</H>  & = & 400\\
+He       & <H>h</H> & = & 5 & Nun      & <H>n<NIL></H> & = & 50 & Kaph final  & <H>k</H>  & = & 500\\
+Vau      & <H>w</H> & = & 6 & Samech   & <H>s</H>      & = & 60 & Mem final   & <H>m</H>  & = & 600\\
+Zayin    & <H>z</H> & = & 7 & Ayin     & <H>`</H>      & = & 70 & Nun final   & <H>n</H>  & = & 700\\
+Cheth    & <H>x</H> & = & 8 & Pe       & <H>p<NIL></H> & = & 80 & Pe final    & <H>p</H>  & = & 800\\
+Teth     & <H>T</H> & = & 9 & Tsade    & <H>Y<NIL></H> & = & 90 & Tsade final & <H>Y</H>  & = & 900
+\end{tabular}
+\end{center}

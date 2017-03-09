@@ -1,0 +1,90 @@
+\documentclass{book}
+\usepackage[hebrew,greek,nochpar,chapbookm,nogeometry]{bible}
+\tolerance=3000
+
+\usepackage[dvips,headheight=12pt,headsep=0pt,vmargin={0.2in,0.7in},hmargin={0.2in},marginparsep=1pt,twoside=false,papersize={9cm,12cm}]{geometry}
+
+\newif\iftorah
+\newif\ifneviim
+\newif\ifkethuvim
+
+\torahtrue
+\neviimtrue
+\kethuvimtrue
+
+\renewcommand{\bibheadfont}{\small\scshape}
+\renewcommand{\bibheadchapsize}{\bfseries\normalsize}
+\renewcommand{\bibheadversesize}{\bfseries\small}
+\renewcommand{\bibheadpagesize}{\bfseries\small}
+\renewcommand{\bibtitlefont}{\LARGE}
+\renewcommand{\bibbookend}{\fontsize{14.2}{18.0}\selectfont}
+\renewcommand{\bibmarnchfont}{\bfseries\upshape\fontsize{7}{7}\selectfont}
+\renewcommand{\bibmarnvsfont}{\mdseries\upshape\fontsize{6}{6}\selectfont}
+\renewcommand{\footnotesize}{\large}
+
+\bibmetadata
+{Massoretico-Critical Edition of the Hebrew Bible}
+{Hebrew Old Testament \ifnodiacritics(consonantal text)\else(with \totalfnt\ footnotes)\fi}
+{hebrew,aramaic,tanach,old,testament,torah,neviim,kethuvim,bible,massorah,ginsburg,tigran,aivazian}
+{20020506112211}
+{Hebrew}
+
+\input select-book
+
+\hyphenation{%
+Mat-thi-as
+Ma-rio
+To-rah
+va-ri-ants
+ma-nu-scripts
+Ober-di-ek
+Jon-ath-an
+Vo-lo-vich
+}
+
+\begin{document}
+\pagenumbering{arabic}
+\input tex/title\newpage
+\ifnodiacritics\else
+\pagestyle{fancy}
+\input intro\newpage
+\input tex/gematria\newpage
+\input tex/abbrev\newpage
+\fi
+\input tex/content\newpage
+\pagestyle{fancy}
+\iftorah
+\bibpart{\begin{hebrew}twrh\end{hebrew}}{Torah}{Torah}
+\include{tex/Gen}
+\include{tex/Exo}
+\include{tex/Lev}
+\include{tex/Num}
+\include{tex/Deu}
+\fi
+\ifneviim
+\bibpart{\begin{hebrew}nby'ym\end{hebrew}}{Prophets}{Prophets}
+\include{tex/Jos}
+\include{tex/Jdg}
+\include{tex/Sam}
+\include{tex/Kin}
+\include{tex/Isa}
+\include{tex/Jer}
+\include{tex/Eze}
+\include{tex/Min}
+\fi
+\ifkethuvim
+\bibpart{\begin{hebrew}ktwbym\end{hebrew}}{Writings}{Writings}
+\include{tex/Psa}
+\include{tex/Pro}
+\include{tex/Job}
+\include{tex/Sol}
+\include{tex/Rut}
+\include{tex/Lam}
+\include{tex/Ecc}
+\include{tex/Est}
+\include{tex/Dan}
+\include{tex/Ezr}
+\include{tex/Chr}
+\fi
+\ifpdf\input bookmarks\fi
+\end{document}

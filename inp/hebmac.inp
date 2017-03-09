@@ -1,0 +1,16 @@
+% new parasha
+\newcommand*{\parasha}[1]{%
+	\leavevmode\unskip
+	\stepcounter{parashanum}%
+	\bibmark{oddhead}{#1}%
+	\bibmarn{\mpr@parasha{\theparashanum}}%
+	\hypertarget{\bkname\theparashanum}{}\label{\bkname\theparashanum}%
+	\ignorespaces
+}
+\protected\def\mpr@parasha#1{<H>\maintextfalse\m{_{#1}}p<NIL>!</H>}
+
+% typographical curiosa: two forms of inverted nun
+\newcommand*{\nuninv}{\mbox{}\hspace{2ex}<H>\maintextfalse<BIG>n/</H>}
+\newcommand*{\nuninvspace}{\hfill\nuninv\hspace*{6ex}\mbox{}}
+
+\input tex/hebnum

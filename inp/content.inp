@@ -1,0 +1,43 @@
+\pagestyle{empty}
+\enlargethispage*{2cm}
+\fontsize{10}{12.6}\selectfont
+\renewcommand{\conthead}[1]{\begin{center}\normalsize#1\end{center}}
+
+\conthead{<H>twrh</H>}
+
+\hspace*{-5mm}
+\begin{tabularx}{\linewidth}{X | X}
+\bibpr{Num}\bibdf<H>bmdbr</H>     & \bibpr{Gen}\bibdf<H>br'W/yt</H>\\
+\bibpr{Deu}\bibdf<H>dbrym</H>     & \bibpr{Exo}\bibdf<H>W/mwt</H>\\
+\mbox{}                           & \bibpr{Lev}\bibdf<H>wyqr'</H>\\
+\end{tabularx}
+
+\conthead{<H>nby'ym</H>}
+
+\hspace*{-5mm}
+\begin{tabularx}{\linewidth}{X | X}
+\bibpr{Amo}\bibdf<H>`mws</H>      & \bibpr{Jos}\bibdf<H>yhwW/`</H>\\
+\bibpr{Oba}\bibdf<H>`bdyh</H>     & \bibpr{Jdg}\bibdf<H>W/pTym</H>\\
+\bibpr{Jon}\bibdf<H>ywnh</H>      & \bibpr{1Sa}\bibdf<H>W/mw'l '</H>\\
+\bibpr{Mic}\bibdf<H>mykh</H>      & \bibpr{2Sa}\bibdf<H>W/mw'l b</H>\\
+\bibpr{Nah}\bibdf<H>nxwm</H>      & \bibpr{1Ki}\bibdf<H>mlkym '</H>\\
+\bibpr{Hab}\bibdf<H>xbqwq</H>     & \bibpr{2Ki}\bibdf<H>mlkym b</H>\\
+\bibpr{Zep}\bibdf<H>Ypnyh</H>     & \bibpr{Isa}\bibdf<H>yW/`yh</H>\\
+\bibpr{Hag}\bibdf<H>xgy</H>       & \bibpr{Jer}\bibdf<H>yrmyh</H>\\
+\bibpr{Zec}\bibdf<H>zkryh</H>     & \bibpr{Eze}\bibdf<H>yxzq'l</H>\\
+\bibpr{Mal}\bibdf<H>ml'ky</H>     & \bibpr{Hos}\bibdf<H>hwW/`</H>\\
+\mbox{}                           & \bibpr{Joe}\bibdf<H>yw'l</H>\\
+\end{tabularx}
+
+\conthead{<H>ktwbym</H>}
+
+\hspace*{-5mm}
+\begin{tabularx}{\linewidth}{X | X}
+\bibpr{Ecc}\bibdf<H>qhlt</H>   & \bibpr{1Ch}\bibdf<H>dbry hymym '</H>\\
+\bibpr{Lam}\bibdf<H>'ykh</H>   & \bibpr{2Ch}\bibdf<H>dbry hymym b</H>\\
+\bibpr{Est}\bibdf<H>'str</H>   & \bibpr{Psa}\bibdf<H>thlym</H>\\
+\bibpr{Dan}\bibdf<H>dny'l</H>  & \bibpr{Job}\bibdf<H>'ywb</H>\\
+\bibpr{Ezr}\bibdf<H>`zr'</H>   & \bibpr{Pro}\bibdf<H>mW/ly</H>\\
+\bibpr{Neh}\bibdf<H>nxmyh</H>  & \bibpr{Rut}\bibdf<H>rwt</H>\\
+\mbox{}                        & \bibpr{Sol}\bibdf<H>W/yr hW/yrym</H>\\
+\end{tabularx}

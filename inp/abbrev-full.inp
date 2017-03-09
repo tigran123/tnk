@@ -1,0 +1,251 @@
+%begin-noprep
+\bibpdfbookmark{Abbreviations}{abbrev}
+\pagestyle{empty}
+
+\begin{center}
+\sffamily\bfseries\large
+MSS. of entire Bibles and Portions thereof.
+\end{center}
+\small
+
+\hspace*{-1cm}
+\begin{tabulary}{0.5\linewidth}{R|C|L|L|L}
+No.&           & Description     & Date                       & Content\\
+\hline
+1  & <H>'</H>  & Or. 4445        & \bibemph{circa} 820--50    & Pentateuch\\
+2  & <H>b</H>  & St. Petersburg  & dated 916                  & Latter Prophets\\
+3  & <H>g</H>  & Reuchlin No. 2  & dated 1105                 & Earlier and Latter Prophets\\
+4  & <H>d</H>  & Harley 5720     & \bibemph{circa} 1100--1120 & Earlier and Latter Prophets\\
+5  & <H>h</H>  & Ar. Or. 16      & \bibemph{circa} 1120       & Prophets and Hagiographa\\
+6  & <H>w</H>  & Oriental 1467   & \bibemph{circa} 1150       & Leviticus, Deuteronomy\\
+7  & <H>z</H>  & Add. 21161      & \bibemph{circa} 1150       & Prophets and Hagiographa\\
+8  & <H>x</H>  & Or. 2363        & \bibemph{circa} 1150--1200 & Pentateuch\\
+9  & <H>T</H>  & Add. 9403       & \bibemph{circa} 1160--1200 & Pentat., Haph., Megilloth, Job, etc.\\
+10 & <H>y</H>  & Add. 4708       & \bibemph{circa} 1180--1200 & Latter Prophets\\
+11 & <H>y'</H> & Add. 15451      & \bibemph{circa} 1200       & Bible\\
+12 & <H>yb</H> & Ar. Or. 2       & dated 1216                 & Pentateuch, Haphtaroth, Megilloth\\
+13 & <H>yg</H> & Harley 5710--11 & \bibemph{circa} 1230       & Bible\\
+14 & <H>yd</H> & Or. 2201        & dated 1246                 & Bible\\
+15 & <H>Tw</H> & Add. 9399       & \bibemph{circa} 1250       & Latter Prophets, Hagiographa\\
+16 & <H>Tz</H> & Add. 9400       & \bibemph{circa} 1250       & Pentateuch, Megilloth, Haphtaroth\\
+17 & <H>yz</H> & Add. 15250      & \bibemph{circa} 1250       & Bible\\
+18 & <H>yx</H> & Add. 15282      & \bibemph{circa} 1250--80   & Pentateuch, Megilloth, Haphtaroth\\
+19 & <H>yT</H> & Add. 9401--2    & dated 1286                 & Pentat., Megil., Haph., Hagiogr., etc.\\
+20 & <H>k<NIL></H> & Paris N.L.  & dated 1286                 & Bible\\
+21 & <H>k'</H> & Add. 14760      & dated 1293                 & Earlier and Latter Prophets\\
+22 & <H>kb</H> & Harley 1528     & \bibemph{circa} 1300       & Bible\\
+23 & <H>kg</H> & Add. 21160      & \bibemph{circa} 1300       & Pentateuch, Haphtaroth, Megilloth\\
+24 & <H>kd</H> & Or. 4227        & \bibemph{circa} 1300       & Bible\\
+25 & <H>kh</H> & Or. 1478        & \bibemph{circa} 1300       & Prophets and Hagiographa\\
+26 & <H>kw</H> & Or. 2091        & \bibemph{circa} 1300       & Prophets and Hagiographa\\
+27 & <H>kz</H> & Add. 9398       & \bibemph{circa} 1300       & Prophets and Hagiographa\\
+28 & <H>kx</H> & Add. 9405--6    & dated 1309                 & Jeremiah, Job and Megilloth\\
+29 & <H>kT</H> & Add. 10455      & dated 1311                 & Pentateuch, Megilloth, etc.\\
+30 & <H>l</H>  & Berlin 1        & dated 1343                 & Bible\\
+31 & <H>l'</H> & Or. 2696        & \bibemph{circa} 1300--1350 & Pentateuch, Megilloth, Haphtaroth\\
+32 & <H>lb</H> & Add. 9404       & \bibemph{circa} 1350       & Pentateuch, Megilloth, Haphtaroth\\
+33 & <H>lg</H> & Add. 9407       & \bibemph{circa} 1350       & Pentateuch, Haphtaroth\\
+34 & <H>ld</H> & Add. 15252      & \bibemph{circa} 1350       & Bible\\
+35 & <H>lh</H> & Homburg No. 1   & \bibemph{circa} 1350       & Pentat., Megilloth, Haphtaroth, Job\\
+36 & <H>lw</H> & King's 1        & dated 1385                 & Bible\\
+37 & <H>lz</H> & Harley 5774--5  & dated 1396                 & Prophets and Hagiographa\\
+38 & <H>lx</H> & Add. 19776      & dated 1396                 & Pentateuch, Megilloth, Haphtaroth\\
+39 & <H>lT</H> & Or. 2350        & dated 1408--9              & Pentateuch, Haphtaroth\\
+40 & <H>m<NIL></H> & G. 2        & \bibemph{circa} 1380--1400 & Bible\\
+41 & <H>m'</H> & G. 4            & \bibemph{circa} 1400--10   & Pentat., Megilloth, Haphtaroth, Job\\
+42 & <H>mb</H> & G. 1            & dated 1419                 & Bible\\
+43 & <H>mg</H> & Add. 15251      & dated 1448                 & Bible\\
+44 & <H>md</H> & Or. 2370        & dated 1460--61             & Earlier Prophets\\
+45 & <H>mh</H> & Or. 1379        & \bibemph{circa} 1460       & Pentateuch\\
+46 & <H>mw</H> & Or. 2210        & dated 1468                 & Earlier Prophets\\
+47 & <H>mz</H> & Or. 2375        & \bibemph{circa} 1460--80   & Hagiographa\\
+48 & <H>mx</H> & Or. 2348        & dated 1469                 & Pentateuch\\
+\end{tabulary}
+
+\newpage
+
+\begin{center}
+\sffamily\bfseries\large
+MSS. of entire Bibles and Portions thereof. (cont'd)
+\end{center}
+
+\hspace*{-1cm}
+\begin{tabulary}{0.5\linewidth}{R|C|L|L|L}
+No.&           & Description     & Date                       & Content\\
+\hline
+49 & <H>mT</H> & G. 3            & dated 1474                 & Pentateuch, Prophets\\
+50 & <H>n<NIL></H> & Or. 2211    & dated 1475                 & Latter Prophets\\
+51 & <H>n'</H> & Or. 2364        & \bibemph{circa} 1480       & Pentateuch, Haphtaroth\\
+52 & <H>nb</H> & Or. 2626--28    & dated 1483                 & Bible\\
+53 & <H>ng</H> & Or. 2349        & dated 1490                 & Pentateuch\\
+54 & <H>nd</H> & Or. 1468        & \bibemph{circa} 1500       & Pentateuch\\
+55 & <H>nh</H> & Or. 5404        &                            & Pentateuch\\
+56 & <H>nw</H> & Or. 2451        &                            & Pentateuch, Haphtaroth, Psalms\\
+57 & <H>nz</H> & Cambride Add. 465 &                          & Bible\\
+58 & <H>nx</H> & W.              &                            & Bible\\
+59 & <H>nT</H> & Or. 2369        &                            & Former Prophets\\
+60 & <H>s</H>  & Or. 2371        &                            & Former Prophets\\
+61 & <H>s'</H> & Harley 5586     &                            & Pentateuch\\
+62 & <H>sb</H> & Add. 15283      &                            & Pentateuch, Haphtaroth, Megilloth\\
+63 & <H>sg</H> & Or. 2373        &                            & Hagiographa\\
+64 & <H>sd</H> & Harley 5715     &                            & Hagiographa\\
+65 & <H>sh</H> & Or. 2372        &                            & Latter Prophets\\
+66 & <H>sw</H> & Harley 5721     &                            & Kings and Latter Prophets\\
+67 & <H>sz</H> & Add. 11657      &                            & Former and Latter Prophets\\
+68 & <H>sh</H> & Harley 5509     &                            & Latter Prophets\\
+69 & <H>sT</H> & Harley 5722     &                            & Former and Latter Prophets\\
+70 & <H>`</H>  & Harley 5773     &                            & Pentateuch, Haphtaroth, Megilloth\\
+71 & <H>`'</H> & Or. 2365        &                            & Pentateuch\\
+72 & <H>`b</H> & Leningrad Codex & dated 1008--9              & Bible\\
+73 & <H>`g</H> & Aleppo Codex    & \bibemph{circa} 920        & Bible\\
+\end{tabulary}
+
+\vspace*{4ex}
+
+\begin{center}
+\sffamily\bfseries\large
+Ancient Versions.
+\end{center}
+
+Targum Onkelos \bibdf <H>t!!' \m{=} trgwm 'wnqlws</H>
+
+Targum Jonathan \bibdf <H>t!!y \m{=} trgwm ywntn</H>
+
+Targum Syriac (Peshitta) \bibdf <H>t!!s \m{=} trgwm swry</H>
+
+Targum of 70 Elders (LXX) \bibdf <H>t!!` \m{=} trgwm `! zqnym</H>
+
+Targum Aramaic \bibdf <H>tr! \m{=} trgwm 'rmy</H>
+
+Latin Vulgate \bibdf <H>t!!r \m{=} trgwm rwmy</H>
+
+Samaritan Pentateuch \bibdf <H>x!!W/ \m{=} xwmW/ W/mrwny</H>
+
+Samaritan Targum \bibdf <H>t!!W/ \m{=} trgwm W/mrwny</H>
+
+\begin{center}
+\sffamily\bfseries\large
+Early editions of the entire Bible and parts thereof.\\
+A.D.~1477---1524--5.
+\end{center}
+\normalsize
+
+Psalms, Bologna? 1477 \bibdf <H>td!!' \m{=} thlym dpws '!</H>\\[-1mm]
+
+\parbox{4.9cm}{
+Pentateuch, Bologna 1482\\
+Prophets, Soncino 1485--1486\\
+Hagiographa, Naples 1486--1487
+}
+\parbox{0cm}{
+$\Biggl\}$
+}
+\bibdf <H>d!!' \m{=} dpws '!</H>\\[0.1mm]
+
+Pentateuch, Fara or Para 1487 \bibdf <H>d!!b \m{=} dpws b!</H>
+
+First edition of the Bible, Soncino 1488 \bibdf <H>d!!g \m{=} dpws g!</H>
+
+Pentateuch, Ixar 1490 \bibdf <H>d!!d \m{=} dpws d!</H>
+
+Pentateuch, Joshua, Judges, Samuel, Kings,
+
+Lisbon 1491 \bibdf <H>d!!h \m{=} dpws h!</H>
+
+Second edition of the Bible, Naples \bibemph{circa} 1491--1493 \bibdf <H>d!!w \m{=} dpws w!</H>
+
+Pentateuch, Brescia 1492 \bibdf <H>d!!z \m{=} dpws z!</H>
+
+Isaiah and Jeremiah, Lisbon 1492 \bibdf <H>d!!x \m{=} dpws x!</H>
+
+Proverbs with Targum \&c., Leiria 1492 \bibdf <H>d!!T \m{=} dpws T!</H>
+
+Third edition of the Bible, Brescia 1494 \bibdf <H>d!!y \m{=} dpws y!</H>
+
+The Earlier Prophets, Pesaro with the Commentary of
+
+Abravanel 1510--1511;
+
+The Earlier Prophets with the Commentary of Kimchi,
+
+Pesaro 1511 \bibdf <H>dy!!' \m{=} dpws y!!'</H>
+
+The Latter Prophets, Pesaro 1515 \bibdf <H>dy!!b \m{=} dpws y!!b</H>
+
+Fourth edition of the Bible, Pesaro 1511--17 \bibdf <H>dy!!g \m{=} dpws y!!g</H>
+
+Psalms, Proverbs, Job and Daniel, Salonica 1515 \bibdf <H>dy!!d \m{=} dpws y!!d</H>
+
+Complutensian Polyglot 1514--1517 \bibdf <H>dT!!w \m{=} dpws T!!w</H>
+
+Pentateuch, Venice 1516 \bibdf <H>dT!!z \m{=} dpws T!!z</H>
+
+First edition of the Rabbinic Bible by Felix Pratensis,
+
+Bomberg, Venice 1517 \bibdf <H>dy!!z \m{=} dpws y!!z</H>
+
+Bible $4^o$, Bomberg Venice 1521 \bibdf <H>dy!!x \m{=} dpws y!!x</H>
+
+Second edition of the Rabbinic Bible by Jacob ben Chayim,
+
+Bomberg, Venice 1524--1525 \bibdf <H>dy!!T \m{=} dpws y!!T</H>
+
+\vspace*{3ex}
+\begin{center}
+\sffamily\bfseries\large
+Abbreviations.
+\end{center}
+
+End of verse \bibdf <H>'s!!p \m{=} 'tnxt' swp pswq</H>
+
+Ben-Asher reading \bibdf <H>b!!' \m{=} bn='W/r</H>
+
+In another manuscript \bibdf <H>bs!!' \m{=} bspr 'xr, bsprym 'xrym</H>
+
+In edition such and such \bibdf <H>bd!!b \m{=} bdpws b!: `yyn d!!', d!!b</H>
+
+Ben-Naphtali reading \bibdf <H>b!!n<NIL> \m{=} bn=nptly</H>
+
+And it is to be read \bibdf <H>wq! \m{=} wqry</H>
+
+Zaqeph Gadol \bibdf <H>z!!g \m{=} zqp gdl</H>
+
+Small letter \bibdf <H>z`yr'</H>
+
+Zaqeph Qaton \bibdf <H>z!!q \m{=} zqp qTn</H>
+
+Manuscript, MSS \bibdf <H>k<NIL>!!y \m{=} ktb yd, ktby yd</H>
+
+It is written \bibdf <H>kt! \m{=} ktyb</H>
+
+There is [are] not \bibdf <H>l! \m{=} lyt</H>
+
+Another copy \bibdf <H>n<NIL>!!' \m{=} nwsx' 'xrt</H>
+
+Possible correction \bibdf <H>n<NIL>!!l \m{=} nr'h ly</H>
+
+Seder \bibdf <H><PALESTINIAN>so \m{=} sdr</H><H><TIBERIAN></H>
+
+Another manuscript(s) \bibdf <H>s!!' \m{=} spr 'xr, sprym 'xrym</H>
+
+End of verse \bibdf <H>s!!p<NIL> \m{=} swp pswq</H>
+
+See also \bibdf <H>`yyn</H>
+
+Parashah \bibdf <H>p<NIL>! \m{=} prW/h</H>
+
+Probable correction \bibdf <H>Y<NIL>!!l \m{=} Yryk lhywt</H>
+
+It is to be read \bibdf <H>q! \m{=} qry</H>
+
+Kennicott-De Rossi MSS \bibdf <H>qn<NIL>!!dr</H>
+
+Big letter \bibdf <H>rbty</H>
+
+The beginning of the verse \bibdf <H>r!!p<NIL> \m{=} r'W/ pswq</H>
+
+Telisha Gdolah \bibdf <H>t!!g \m{=} tlyW/' gdwlh</H>
+
+Telisha Ktanah \bibdf <H>t!!q \m{=} tlyW/' qTnh</H>
+
+%end-noprep

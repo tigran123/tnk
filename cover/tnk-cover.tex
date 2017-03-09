@@ -1,0 +1,71 @@
+\documentclass{book}
+
+\usepackage[pdftex,
+	margin=0.0pt,
+	papersize={19.49in,11.55in},
+]{geometry}
+
+\usepackage{newcent}
+\usepackage[british]{babel}
+\usepackage[pdftex]{color}
+
+\TeXXeTstate=1
+
+\pagestyle{empty}
+
+\begin{document}
+
+\definecolor{bgc}{rgb}{0.0, 0.0, 0.0}
+\definecolor{fgc}{rgb}{1.0, 1.0, 0.8}
+
+\pagecolor{bgc}
+\color{fgc}
+
+\newlength{\bookwidth}
+\setlength{\bookwidth}{8.66in}
+
+\newsavebox{\back}
+\newsavebox{\spine}
+\newsavebox{\front}
+
+\font\smtq=tq24
+\def\smheb#1{\smtq\beginR#1\endR}
+
+\font\hugetq=tq36 at 70pt
+\def\hugeheb#1{\hugetq\beginR#1\endR}
+
+\font\medtq=tq36
+\def\medheb#1{\medtq\beginR#1\endR}
+
+\sbox{\spine}{%
+  \parbox{1.61in}{%
+    \vspace*{3in}\centering
+    \smheb{twrh}\\[0.2in]
+    \smheb{nby'ym}\\[0.2in]
+    \smheb{ktwbym}\\[1in]
+    \smheb{(bly nqwdwt)}\\[4.5in]
+    \Large\bfseries Bibles.org.uk\\[6mm]
+    \small 2005\vspace*{0.7in}
+  }
+}
+
+\sbox{\front}{%
+  \parbox{\bookwidth}{%
+    \vspace*{3in}\centering
+    \hugeheb{twrh}\\[0.6in]
+    \hugeheb{nby'ym}\\[0.6in]
+    \hugeheb{ktwbym}\\*[0.8in]
+    \medheb{(bly nqwdwt)}\\[4.08in]
+  }
+}
+
+\begin{center}
+%\begin{tabular}{|p{\bookwidth}|p{1.61in}|p{\bookwidth}|}
+\begin{tabular}{p{\bookwidth}p{1.61in}p{\bookwidth}}
+%\hline
+\usebox{\front} & \usebox{\spine} & \\
+%\hline
+\end{tabular}
+\end{center}
+
+\end{document}

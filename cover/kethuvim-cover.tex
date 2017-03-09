@@ -1,0 +1,70 @@
+\documentclass{book}
+
+\newlength{\spinewidth}
+\setlength{\spinewidth}{1.06in}
+
+\newlength{\coverwidth}
+\setlength{\coverwidth}{12.85in}
+\addtolength{\coverwidth}{\spinewidth}
+
+\usepackage[pdftex,
+	margin=0.0pt,
+	papersize={\coverwidth,9.55in},
+]{geometry}
+
+\usepackage{newcent}
+\usepackage[british]{babel}
+\usepackage[pdftex]{color}
+
+\TeXXeTstate=1
+
+\pagestyle{empty}
+
+\begin{document}
+
+\definecolor{bgc}{rgb}{0.1, 0.1, 0.4}
+\definecolor{fgc}{rgb}{1.0, 1.0, 0.8}
+
+\pagecolor{bgc}
+\color{fgc}
+
+\newlength{\bookwidth}
+\setlength{\bookwidth}{6.17in}
+
+\newsavebox{\back}
+\newsavebox{\spine}
+\newsavebox{\front}
+
+\font\smtq=tq20 at 21pt
+\def\smheb#1{\smtq\beginR#1\endR}
+
+\font\hugetq=tq36 at 60pt
+\def\hugeheb#1{\hugetq\beginR#1\endR}
+
+\sbox{\spine}{%
+  \parbox{\spinewidth}{%
+    \vspace*{2in}\centering
+    \smheb{ktwbym}\\[6in]
+    \fontsize{7}{7}\selectfont
+    Bibles.org.uk\\[6mm]
+    \small 2005\vspace*{0.7in}
+  }
+}
+
+\sbox{\front}{%
+  \parbox{\bookwidth}{%
+    \vspace*{2in}\centering
+    \hugeheb{ktwbym}\\[7in]
+  }
+}
+
+\begin{center}
+%\begin{tabular}{|p{\bookwidth}|p{\spinewidth}|p{\bookwidth}|}
+\begin{tabular}{p{\bookwidth}p{\spinewidth}p{\bookwidth}}
+%\hline
+\usebox{\front} & \usebox{\spine} & \\
+%\hline
+\end{tabular}
+\end{center}
+
+\end{document}
